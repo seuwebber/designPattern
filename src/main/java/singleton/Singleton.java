@@ -1,5 +1,6 @@
 package singleton;
 
+//单例模式
 public class Singleton {
     //恶汉模式等
 
